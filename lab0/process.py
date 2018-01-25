@@ -8,26 +8,31 @@ def main():
   with open(FILENAME) as f:
     text = f.read()
 
+  print
   ngram = WordNGram(0, text)
-  print "Zero-order word approximation"
+  print "sentences from monogram"
+  print ngram.generate_sentence(6)
+  print ngram.generate_sentence(7)
+  print ngram.generate_sentence(8)
+  print ngram.generate_sentence(9)
   print ngram.generate_sentence(10)
   print
 
   ngram = WordNGram(1, text)
-  print "First-order word approximation"
-  print ngram.generate_sentence(10)
+  print "sentences from bigrams"
+  print ngram.generate_sentence(6)
+  print ngram.generate_sentence(7)
+  print ngram.generate_sentence(8)
+  print ngram.generate_sentence(9)
   print ngram.generate_sentence(10)
   print
 
   ngram = WordNGram(2, text)
-  print "Second-order word approximation"
-  print ngram.generate_sentence(10)
-  print ngram.generate_sentence(10)
-  print
-
-  ngram = WordNGram(3, text)
-  print "Third-order word approximation"
-  print ngram.generate_sentence(10)
+  print "sentences from trigram"
+  print ngram.generate_sentence(6)
+  print ngram.generate_sentence(7)
+  print ngram.generate_sentence(8)
+  print ngram.generate_sentence(9)
   print ngram.generate_sentence(10)
   print
 

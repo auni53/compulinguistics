@@ -1,15 +1,23 @@
-> python process.py
-Zero-order word approximation
-with the and the under of so me and ain
+> python proecess.py
 
-First-order word approximation
-solemn blade rampant ignored mouse traps scrabble flag exposed jabber
-rainy rains sword wellington climb way shiniest carcass plunder soberer
+sentences from monogram
+yet i like s a that
+the trouble snack it open t going
+allowed behind i stand ll knowed morning cretur
+lumber him with ain spinning two i door say
+now why set steal be the heels and snatched night
 
-Second-order word approximation
-claims swarmed willow penrod whose dandy groun represent singing ranged
-hers cavortings hooky tarred recommend starved glide regard squah stagger
+sentences from bigrams
+hurrying drifting creepy sturb spokes spool
+rumbling families tear casanova confound clack letter
+nary slave morrow graceful chops pluck simple bake
+sheepish dreams hey spy jackson stern gates style funny
+gun cavortings wave screeching hawed writes dark creation hand shakespeare
 
-Third-order word approximation
-plantation dumped weak prise saws presbyterian wenches dancing taken poked
-stilts mercy contrived sow leveler studied oozing three crew saint
+sentences from trigram
+tumbles jimminy stumped very wigwams never
+creation sudden slant swung eats bout suitable
+butcher far smell motherless talky deeper lawsuit sting
+see jammed scrouched dry yerd meeky joking hookey whooped
+expenses daybreak meal salary tolerble tub colicky complexion circus nap
+
