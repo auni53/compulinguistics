@@ -16,12 +16,21 @@ def main():
   ngram = WordNGram(1, text)
   print "First-order word approximation"
   print ngram.generate_sentence(10)
+  print ngram.generate_sentence(10)
   print
 
   ngram = WordNGram(2, text)
   print "Second-order word approximation"
   print ngram.generate_sentence(10)
+  print ngram.generate_sentence(10)
   print
+
+  ngram = WordNGram(3, text)
+  print "Third-order word approximation"
+  print ngram.generate_sentence(10)
+  print ngram.generate_sentence(10)
+  print
+
 
 if __name__ == '__main__':
   main()

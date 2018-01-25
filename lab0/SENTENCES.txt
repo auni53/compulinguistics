@@ -1,0 +1,15 @@
+> python process.py
+Zero-order word approximation
+with the and the under of so me and ain
+
+First-order word approximation
+solemn blade rampant ignored mouse traps scrabble flag exposed jabber
+rainy rains sword wellington climb way shiniest carcass plunder soberer
+
+Second-order word approximation
+claims swarmed willow penrod whose dandy groun represent singing ranged
+hers cavortings hooky tarred recommend starved glide regard squah stagger
+
+Third-order word approximation
+plantation dumped weak prise saws presbyterian wenches dancing taken poked
+stilts mercy contrived sow leveler studied oozing three crew saint
