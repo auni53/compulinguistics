@@ -1,0 +1,6 @@
+pearsonr[S, S]: 1.0
+pearsonr[S, S_M1]: -0.120557769345
+pearsonr[S, S_M1_plus]: 0.361233350833
+pearsonr[S, S_M2_10]: 0.154636258519
+pearsonr[S, S_M2_50]: 0.0987605776884
+pearsonr[S, S_M2_100]: 0.386996794547
